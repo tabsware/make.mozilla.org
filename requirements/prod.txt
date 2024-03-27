@@ -2,6 +2,6 @@ South
 pytz
 redis
 django-countries
-feedparser==5.0.1
+feedparser==5.1.2
 python-memcached
 -r ../vendor/src/funfactory/funfactory/requirements/prod.txt
